@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16f7a9e2068e8a218f7fcd2409861f89",
+    "revision": "4af6454b73446e9ec3f830e656b1a74b",
     "url": "/torres.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/torres.github.io/static/css/2.8c3c0e8e.chunk.css"
   },
   {
-    "revision": "80fb26c3cad79ad119ad",
+    "revision": "681aa31b9b1c9aafceca",
     "url": "/torres.github.io/static/css/main.f5d71a1b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/torres.github.io/static/js/2.dd554c0c.chunk.js"
   },
   {
-    "revision": "80fb26c3cad79ad119ad",
-    "url": "/torres.github.io/static/js/main.c1db324d.chunk.js"
+    "revision": "681aa31b9b1c9aafceca",
+    "url": "/torres.github.io/static/js/main.30ee0a83.chunk.js"
   },
   {
     "revision": "baf5280611df175d1a19",
